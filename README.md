@@ -465,8 +465,8 @@ Contributions, issues and feature requests are welcome!
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@cuongpham2107](https://github.com/cuongpham2107)
+- Email: cuongpham2107@gmail.com
 
 ## 🙏 Acknowledgments
 
